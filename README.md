@@ -1,4 +1,10 @@
 # Bem vindo ao meu perfil!
+- 👋 Olá, eu sou o Joseph Matheus
+- 💻 Front end dev
+- ⌚ Estou no processo de aprendizado
+- 📚 Estudando principalmente HTML, CSS e JavaScript
+- 📧 Email: josephmatheus@hotmail.com
+- 🤓 Nerd
 
 <div>
   <a href="https://github.com/josephmatheus">
@@ -13,7 +19,7 @@
  
  <br>
  
-  ### Para me contactar, segue minhas redes abaixo!
+  ### Para me contactar, segue minhas redes abaixo.
  
 <div> 
   <!-- <a href="https://www.youtube.com/devemdobro" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>-->
@@ -31,12 +37,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Olá, eu sou o Joseph Matheus
+- 💻 Front end dev
+- ⌚ Estou no processo de aprendizado
+- 📚 Estudando principalmente HTML, CSS e JavaScript
+- 📧 Email: josephmatheus@hotmail.com
+- 🤓 Nerd
 -->
