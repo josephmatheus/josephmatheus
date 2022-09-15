@@ -1,13 +1,13 @@
 Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35px">, I'm Joseph Matheus
 ======================================================================================================================================
 
-Frontend Developer Jr
+Aspiring to Frontend Developer Jr
 ---------------------
 
-- I'm always in the learning process Seeking to study mainly front-end technologies having started with HTML and CSS then JavaScript. I hope as soon as possible to be able to start studying and come to master some framework (I have a look at React 👀) 
-- I'm a nerd, I enjoy reading books, watching movies and series. 
-- I love dogs 🐕 
-- Musician by hobby 🎸
+- 📚  I'm always in the learning process Seeking to study mainly front-end technologies having started with HTML and CSS then JavaScript. I hope as soon as possible to be able to start studying and come to master some framework (I have a look at React 👀) 
+- 🤓  I'm a geek, I enjoy reading books, watching movies and series. 
+- 🐶  I love dogs
+- 🎸  Musician by hobby 
 - 🌍  I'm based in Paulista, Pernambuco, Brazil
 - ✉️  You can contact me at [josephmatheus@hotmail.com](mailto:josephmatheus@hotmail.com)
 
