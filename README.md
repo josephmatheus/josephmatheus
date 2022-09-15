@@ -1,48 +1,36 @@
-# Bem vindo ao meu perfil!
-- 👋 Olá, eu sou o Joseph Matheus
-- 💻 Front end dev
-- ⌚ Estou no processo de aprendizado
-- 📚 Estudando principalmente HTML, CSS e JavaScript
-- 📧 Email: josephmatheus@hotmail.com
-- 🤓 Nerd
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Joseph Matheus
+======================================================================================================================================
+
+Frontend Developer Jr
+---------------------
+
+- I'm always in the learning process Seeking to study mainly front-end technologies having started with HTML and CSS then JavaScript. I hope as soon as possible to be able to start studying and come to master some framework (I have a look at React 👀) 
+- I'm a nerd, I enjoy reading books, watching movies and series. 
+- I love dogs 🐕 
+- Musician by hobby 🎸
+- 🌍  I'm based in Paulista, Pernambuco, Brazil
+- ✉️  You can contact me at [josephmatheus@hotmail.com](mailto:josephmatheus@hotmail.com)
 
 <div>
   <a href="https://github.com/josephmatheus">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josephmatheus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephmatheus&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
- <br>
- 
-  ### Para me contactar, segue minhas redes abaixo.
- 
-<div> 
-  <!-- <a href="https://www.youtube.com/devemdobro" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
-  <a href = "mailto:josephmatheus@hotmail.com"><img src="https://img.shields.io/badge/-hotmail-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/josephiit" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/josephmatheus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/5581986961323" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   
- 
-  ![Snake animation](https://github.com/josephmatheus/josephmatheus/blob/output/github-contribution-grid-snake.svg)
+### Skills
 
-</div>
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+</p>
 
-<!--
-**josephmatheus/josephmatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Socials
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://www.facebook.com/josephmatheus.oficial" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/josephmatheus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/josephiit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/josephmatheus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+  
+---
 
-- 👋 Olá, eu sou o Joseph Matheus
-- 💻 Front end dev
-- ⌚ Estou no processo de aprendizado
-- 📚 Estudando principalmente HTML, CSS e JavaScript
-- 📧 Email: josephmatheus@hotmail.com
-- 🤓 Nerd
--->
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=227qho7unwg7m63rn7cdiezwq)
+  
+![Snake animation](https://github.com/josephmatheus/josephmatheus/blob/output/github-contribution-grid-snake.svg)
