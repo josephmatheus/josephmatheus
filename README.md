@@ -1,4 +1,4 @@
-Hi ![](https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif), I'm Joseph Matheus
+Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50px">, I'm Joseph Matheus
 ======================================================================================================================================
 
 Frontend Developer Jr
