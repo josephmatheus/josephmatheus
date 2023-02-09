@@ -13,10 +13,10 @@ Aspiring to Frontend Developer Jr
 
 <div>
   <a href="https://github.com/josephmatheus">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=josephmatheus&show_icons=true&count_private=true&theme=nightowl"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephmatheus&layout=compact&theme=nightowl"/>
+  <img height="165em" src="https://github-readme-stats-josephmatheus.vercel.app/api?username=josephmatheus&show_icons=true&count_private=true&theme=nightowl&exclude=github-readme-stats"/>
+  <img height="165em" src="https://github-readme-stats-josephmatheus.vercel.app/api/top-langs/?username=josephmatheus&layout=compact&theme=nightowl&exclude=github-readme-stats"/>
 </div>
-  
+
 ### Skills
 
 <p align="left">
