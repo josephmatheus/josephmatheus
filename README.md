@@ -4,7 +4,7 @@ Hi, I'm Joseph Matheus <img src="https://user-images.githubusercontent.com/18350
 Aspiring to Frontend Developer Jr
 ---------------------
 
-- 📚  I'm always in the learning process Seeking to study mainly front-end technologies having started with HTML and CSS then JavaScript. I hope as soon as possible to be able to start studying and come to master some framework (I have a look at React 👀) 
+- 📚  I'm always in the learning process Seeking to study mainly front-end technologies having started with HTML and CSS then JavaScript. I recently started studying React
 - 🤓  I'm a geek, I enjoy reading books, watching movies and series. 
 - 🐶  I love dogs
 - 🎸  Musician by hobby 
