@@ -32,6 +32,6 @@ Aspiring to Frontend Developer Jr
   
 ---
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=227qho7unwg7m63rn7cdiezwq)
+<!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=227qho7unwg7m63rn7cdiezwq) -->
   
 ![Snake animation](https://github.com/josephmatheus/josephmatheus/blob/output/github-contribution-grid-snake.svg)
