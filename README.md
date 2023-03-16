@@ -1,5 +1,4 @@
 # Hi, I'm Joseph Matheus <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35px">
-<!-- ====================================================================================================================================== -->
 
 ## Frontend Developer Jr
 
@@ -32,6 +31,7 @@
     <img height="165em" width="400" src="https://github-readme-stats-josephmatheus.vercel.app/api?username=josephmatheus&show_icons=true&count_private=true&theme=nightowl&exclude=github-readme-stats"/>
     <img height="165em" width="420" src="https://github-readme-stats-josephmatheus.vercel.app/api/top-langs/?username=josephmatheus&layout=compact&theme=nightowl&exclude=github-readme-stats"/>
     <img height="165em" width="398" src="https://streak-stats.demolab.com?user=josephmatheus&theme=nightowl"/>
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=josephmatheus&theme=nightowl&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
   </a>
 </div>
 
