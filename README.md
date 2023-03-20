@@ -56,9 +56,6 @@
   <a href="https://github.com/josephmatheus">
     <img width="430" src="https://streak-stats.demolab.com?user=josephmatheus&theme=nightowl"/>
   </a>
-  <a href="https://github.com/josephmatheus">
-    <img height="180" src="https://github-readme-stats-josephmatheus.vercel.app/api/wakatime?username=josephmatheus"/>
-  </a>
 <!--   <a href="https://github.com/josephmatheus">
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=josephmatheus&theme=nightowl&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
   </a> -->
