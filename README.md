@@ -48,11 +48,17 @@
 
 <div>
   <a href="https://github.com/josephmatheus">
-    <img height="165em" width="400" src="https://github-readme-stats-josephmatheus.vercel.app/api?username=josephmatheus&show_icons=true&count_private=true&theme=nightowl&exclude=github-readme-stats"/>
-    <img height="165em" width="420" src="https://github-readme-stats-josephmatheus.vercel.app/api/top-langs/?username=josephmatheus&layout=compact&theme=nightowl"/>
-    <img height="165em" width="398" src="https://streak-stats.demolab.com?user=josephmatheus&theme=nightowl"/>
-    <!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=josephmatheus&theme=nightowl&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /> -->
+    <img width="450" src="https://github-readme-stats-josephmatheus.vercel.app/api?username=josephmatheus&show_icons=true&count_private=true&theme=nightowl&exclude=github-readme-stats"/>
   </a>
+  <a href="https://github.com/josephmatheus">
+    <img width="401" src="https://github-readme-stats-josephmatheus.vercel.app/api/top-langs/?username=josephmatheus&theme=nightowl&layout=compact"/>
+  </a>
+  <a href="https://github.com/josephmatheus">
+    <img width="450" src="https://streak-stats.demolab.com?user=josephmatheus&theme=nightowl"/>
+  </a>
+<!--   <a href="https://github.com/josephmatheus">
+    <img width="660" src="https://github-readme-activity-graph.cyclic.app/graph?username=josephmatheus&theme=nightowl&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+  </a> -->
 </div>
 
 ---
