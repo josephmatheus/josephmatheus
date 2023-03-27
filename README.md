@@ -58,7 +58,7 @@
   </a>
 <!--   <a href="https://github.com/josephmatheus">
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=josephmatheus&theme=nightowl&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-  </a> -->
+  </a> --> 
 </div>
 
 ---
