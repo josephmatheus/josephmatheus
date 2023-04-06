@@ -67,5 +67,5 @@
   
 ---
   
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=227qho7unwg7m63rn7cdiezwq&width=300)
+<!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=227qho7unwg7m63rn7cdiezwq&width=300) -->
   
