@@ -56,9 +56,12 @@
   <a href="https://github.com/josephmatheus">
     <img width="430" src="https://streak-stats.demolab.com?user=josephmatheus&theme=nightowl"/>
   </a>
-<!--   <a href="https://github.com/josephmatheus">
+  <a href="https://github.com/josephmatheus">
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=josephmatheus&theme=nightowl&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-  </a>  -->
+  </a>
+  <a href="https://github.com/josephmatheus">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josephmatheus&theme=nightowl"/>
+  </a>
 </div>
 
 ---
