@@ -3,7 +3,7 @@
 ## Frontend Developer Jr
 
 - 📚  I'm always in the learning process Seeking to study mainly front-end technologies having started with HTML and CSS then JavaScript. 
-- 🚀  I recently started studying React
+- 🚀  I currently studying React <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="15" height="15" alt="React" />
 - 🤓  I'm a geek, I enjoy reading books, watching movies and series. 
 - 🐶  I love dogs
 - 🎸  Musician by hobby 
