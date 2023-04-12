@@ -68,7 +68,7 @@
 
 ---
   
-![Snake animation](https://github.com/josephmatheus/josephmatheus/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/josephmatheus/josephmatheus/blob/output/github-contribution-grid-snake.svg) 
   
 ---
   
