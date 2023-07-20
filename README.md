@@ -51,14 +51,14 @@
 
 <div>
   <a href="https://github.com/josephmatheus">
-    <img src="https://github-readme-stats-josephmatheus.vercel.app/api?username=josephmatheus&show_icons=true&count_private=true&theme=nightowl&exclude=github-readme-stats"/>
+    <img height="180" src="https://github-readme-stats-josephmatheus.vercel.app/api?username=josephmatheus&show_icons=true&count_private=true&theme=nightowl&exclude=github-readme-stats"/>
   </a>
   <a href="https://github.com/josephmatheus">
-    <img height="195" src="https://github-readme-stats-josephmatheus.vercel.app/api/top-langs/?username=josephmatheus&theme=nightowl&layout=compact"/>
+    <img height="180" src="https://github-readme-stats-josephmatheus.vercel.app/api/top-langs/?username=josephmatheus&theme=nightowl&layout=compact"/>
   </a>
   <div align="center">
     <a href="https://github.com/josephmatheus">
-      <img  src="https://streak-stats.demolab.com?user=josephmatheus&theme=nightowl"/>
+      <img width="480" src="https://streak-stats.demolab.com?user=josephmatheus&theme=nightowl"/>
     </a>
   </div>
  
