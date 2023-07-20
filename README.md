@@ -51,20 +51,20 @@
 
 <div>
   <a href="https://github.com/josephmatheus">
-    <img height="180" src="https://github-readme-stats-josephmatheus.vercel.app/api?username=josephmatheus&show_icons=true&count_private=true&theme=nightowl&exclude=github-readme-stats"/>
+    <img src="https://github-readme-stats-josephmatheus.vercel.app/api?username=josephmatheus&show_icons=true&count_private=true&theme=nightowl&exclude=github-readme-stats"/>
   </a>
   <a href="https://github.com/josephmatheus">
-    <img height="180" src="https://github-readme-stats-josephmatheus.vercel.app/api/top-langs/?username=josephmatheus&theme=nightowl&layout=compact"/>
+    <img height="195" src="https://github-readme-stats-josephmatheus.vercel.app/api/top-langs/?username=josephmatheus&theme=nightowl&layout=compact"/>
   </a>
   <div align="center">
     <a href="https://github.com/josephmatheus">
-      <img width="430" src="https://streak-stats.demolab.com?user=josephmatheus&theme=nightowl"/>
+      <img  src="https://streak-stats.demolab.com?user=josephmatheus&theme=nightowl"/>
     </a>
   </div>
  
-  <a href="https://github.com/josephmatheus">
+  <!-- <a href="https://github.com/josephmatheus">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josephmatheus&theme=nightowl"/>
-  </a>
+  </a> -->
   
 </div> 
   
