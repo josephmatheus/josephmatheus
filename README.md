@@ -23,6 +23,11 @@
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![Sass](https://skillicons.dev/icons?i=sass)
 
+### Atualmente estudando
+
+![React](https://skillicons.dev/icons?i=react)
+![Styled Components](https://skillicons.dev/icons?i=styledcomponents)
+
 ## Ferramentas de desenvolvimento
 
 ![Figma](https://skillicons.dev/icons?i=figma)
