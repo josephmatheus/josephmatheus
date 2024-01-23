@@ -25,6 +25,7 @@
 
 ### Atualmente estudando
 
+![TypeScript](https://skillicons.dev/icons?i=ts)
 ![React](https://skillicons.dev/icons?i=react)
 ![Styled Components](https://skillicons.dev/icons?i=styledcomponents)
 
