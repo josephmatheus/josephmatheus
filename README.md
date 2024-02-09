@@ -38,11 +38,11 @@
 ### Estatísticas
 
 <a href="https://github.com/Gurupreet" title="ilustração do mapeamento de linguagens">
-  <img align="center" src="https://github-readme-stats-josephmatheus.vercel.app/api/top-langs/?username=josephmatheus&theme=nightowl&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
+  <img align="center" height="300px" src="https://github-readme-stats-josephmatheus.vercel.app/api/top-langs/?username=josephmatheus&theme=nightowl" alt="ilustração da leitura de linguagens de programação no perfil"/>
 </a>
 
 <a href="https://github.com/Gurupreet" title="ilustração do mapeamento do perfil">
- <img align="center" src="https://github-readme-stats-josephmatheus.vercel.app/api?username=josephmatheus&show_icons=true&theme=nightowl&line_height=27" alt="Joseph Matheus github stats"/>
+ <img align="center" height="300px" src="https://github-readme-stats-josephmatheus.vercel.app/api?username=josephmatheus&show_icons=true&theme=nightowl&line_height=30" alt="Joseph Matheus github stats"/>
 </a>
 
 ### Onde me encontrar
