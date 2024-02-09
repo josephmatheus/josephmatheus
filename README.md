@@ -38,7 +38,7 @@
 ### Estatísticas
 
 <a href="https://github.com/Gurupreet" title="ilustração do mapeamento de linguagens">
-  <img align="center" height="250px" src="https://github-readme-stats-josephmatheus.vercel.app/api/top-langs/?username=josephmatheus&theme=nightowl" alt="ilustração da leitura de linguagens de programação no perfil"/>
+  <img align="center" height="250px" src="https://github-readme-stats-josephmatheus.vercel.app/api/top-langs/?username=josephmatheus&layout=compact&theme=nightowl" alt="ilustração da leitura de linguagens de programação no perfil"/>
 </a>
 
 <a href="https://github.com/Gurupreet" title="ilustração do mapeamento do perfil">
