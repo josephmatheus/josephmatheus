@@ -7,12 +7,12 @@
 ### Sobre mim
 
 - 📚 Focando principalmente em tecnologias frontend.
-- 🚀 Atualmente estudando React. <img src="https://skillicons.dev/icons?i=react" width="20" />
+- 🚀 Atualmente estudando SQL, Node com TypeScript e Express. <!-- <img src="https://skillicons.dev/icons?i=nodejs" width="20" /> -->
 - 🎓 Formação em Análise e Des. de Sistemas pela UNISÃOMIGUEL.
 - 🤓 Geek, apaixonado por leitura, filmes e séries.
 - 🐶 Amante de cachorros.
 - 🎸 Músico por hobby.
-- 🌍 Baseado em Abreu e Lima, Pernambuco, Brasil.
+- 🌍 Abreu e Lima, Pernambuco, Brasil.
 - ✉️ Contate-me: [josephmatheus@hotmail.com](mailto:josephmatheus@hotmail.com)
 
 ## Minhas Skills
@@ -22,12 +22,14 @@
 ![CSS](https://skillicons.dev/icons?i=css)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![Sass](https://skillicons.dev/icons?i=sass)
+![React](https://skillicons.dev/icons?i=react)
+![Styled Components](https://skillicons.dev/icons?i=styledcomponents)
 
 ### Atualmente estudando
 
 ![TypeScript](https://skillicons.dev/icons?i=ts)
-![React](https://skillicons.dev/icons?i=react)
-![Styled Components](https://skillicons.dev/icons?i=styledcomponents)
+![Node](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
 
 ## Ferramentas de desenvolvimento
 
