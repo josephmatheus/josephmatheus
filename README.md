@@ -80,7 +80,7 @@ Aplicação para gerenciamento de anotações com CRUD completo (criar, visualiz
 
 ---
 
-*"Assim resplandeça a vossa luz diante dos homens, para que vejam as vossas boas obras e glorifiquem a vosso Pai, que está nos céus"* ✨
+*"Se estiver se sentindo desmotivado ou sentindo que não é bom o suficiente incendeie 🔥 o seu coração 💓*
 
 <!-- PARA USO POSTERIOR
 
