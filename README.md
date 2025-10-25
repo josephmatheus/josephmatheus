@@ -80,7 +80,7 @@ Aplicação para gerenciamento de anotações com CRUD completo (criar, visualiz
 
 ---
 
-*"Se estiver se sentindo desmotivado ou sentindo que não é bom o suficiente incendeie 🔥 o seu coração 💓*
+*"Se estiver se sentindo desmotivado ou sentindo que não é bom o suficiente incendeie o seu coração ❤️‍🔥*
 
 <!-- PARA USO POSTERIOR
 
