@@ -2,7 +2,7 @@
 
 ## Desenvolvedor Frontend | React & TypeScript
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github.com/micaellimedeiros/micaellimedeiros/blob/master/image/computer-illustration.png?raw=true" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 Desenvolvedor apaixonado por criar experiências digitais incríveis, com foco em **React** e **TypeScript**. Sempre em busca de aprender novas tecnologias e aplicar as melhores práticas de desenvolvimento.
 
