@@ -1,8 +1,8 @@
-# Joseph Matheus <img src="./images/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35px">
+# Joseph Matheus <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35px">
 
 ## Desenvolvedor Frontend | React & TypeScript
 
-<img src="./images/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 Desenvolvedor apaixonado por criar experiências digitais incríveis, com foco em **React** e **TypeScript**. Sempre em busca de aprender novas tecnologias e aplicar as melhores práticas de desenvolvimento.
 
@@ -80,7 +80,7 @@ Aplicação para gerenciamento de anotações com CRUD completo (criar, visualiz
 
 ---
 
-*"Se estiver se sentindo desmotivado ou sentindo que não é bom o suficiente incendeie o seu coração"* <img src="./images/coração-fogo.gif" width="18px">
+*"Se estiver se sentindo desmotivado ou sentindo que não é bom o suficiente incendeie o seu coração ❤️‍🔥*
 
 <!-- PARA USO POSTERIOR
 
