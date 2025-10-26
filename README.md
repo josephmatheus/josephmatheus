@@ -49,6 +49,9 @@ Desenvolvedor apaixonado por criar experiências digitais incríveis, com foco e
 
 ### 🚀 Projetos em Destaque
 
+**📦 JM Products API | [Repositório](https://github.com/josephmatheus/jm-products-api)**
+API RESTful para gerenciamento de produtos com Node.js, Express, TypeScript e Prisma ORM. Implementa CRUD completo, relacionamentos entre entidades, validações e tratamento de erros centralizado. Dockerizada com PostgreSQL e pgAdmin.
+
 **🎮 [Pokédex React](https://jm-pokedex-react.vercel.app/) | [Repositório](https://github.com/josephmatheus/pokedex-react)**  
 Aplicação completa com lista de Pokémon, sistema de paginação, alternador de tema claro/escuro e páginas de detalhes. Desenvolvida com React, Context API, React Router e Styled Components.
 
