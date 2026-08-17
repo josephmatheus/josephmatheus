@@ -1,25 +1,25 @@
 # Joseph Matheus <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35px">
 
-## Desenvolvedor Frontend | React & TypeScript
+## Analista de Sistemas @ Deloitte | React, TypeScript @Node.js
 
 <img src="https://github.com/micaellimedeiros/micaellimedeiros/blob/master/image/computer-illustration.png?raw=true" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-Desenvolvedor apaixonado por criar experiências digitais incríveis, com foco em **React** e **TypeScript**. Sempre em busca de aprender novas tecnologias e aplicar as melhores práticas de desenvolvimento.
+Desenvolvedor apaixonado por criar experiências digitais incríveis, com foco em **React** e **TypeScript**, e em expansão para Full Stack com Node.js e PostgreSQL. Sempre em busca de aprender novas tecnologias e aplicar as melhores práticas de desenvolvimento.
 
-🎓 **Formado em Análise e Desenvolvimento de Sistemas**  
-🚀 **Expandindo para Full Stack** com Node.js e PostgreSQL  
+🎓 **Formado em Análise e Desenvolvimento de Sistemas**
+💼 **Analista de Sistemas na Deloitte**  
 📍 **Abreu e Lima, PE - Brasil**
 
 ---
 
 ### 🎯 O que estou fazendo agora
 
-- 🔭 Desenvolvendo aplicações React com TypeScript
-- 🌱 Estudando **Node.js**, **Express** e **PostgreSQL** para me tornar Full Stack
+- 💼 Atuando como Analista de Sistemas na Deloitte
+- 🔭 Desenvolvendo aplicações React com TypeScript, Node.js e Express
+- 🌱 Atualmente estudando **Java** ☕
 - 📚 Melhorando minhas habilidades de **organização de código** e **boas práticas**
 - 🎸 Nas horas vagas toco violão
-- 🎮 Jogo uns joguinhos pra relaxar  
-- 🏎️ E voltei a assistir a F1
+- 🎮 E jogo uns joguinhos pra relaxar
 
 ### 💼 Tech Stack
 
@@ -33,18 +33,20 @@ Desenvolvedor apaixonado por criar experiências digitais incríveis, com foco e
 ![Sass](https://skillicons.dev/icons?i=sass)
 ![Styled Components](https://skillicons.dev/icons?i=styledcomponents)
 
-**Aprendendo (Backend)**
+**Backend**
 
 ![Node](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
 ![Postgres](https://skillicons.dev/icons?i=postgres)
 ![Prisma](https://skillicons.dev/icons?i=prisma)
 ![Docker](https://skillicons.dev/icons?i=docker)
+![Java](https://skillicons.dev/icons?i=java)
 
 **Ferramentas**
 
 ![Git](https://skillicons.dev/icons?i=git)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
+![Intellij](https://skillicons.dev/icons?i=idea)
 ![Figma](https://skillicons.dev/icons?i=figma)
 
 ### 🚀 Projetos em Destaque
