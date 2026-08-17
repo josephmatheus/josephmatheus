@@ -1,12 +1,12 @@
 # Joseph Matheus <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35px">
 
-## Analista de Sistemas @ Deloitte | React, TypeScript @Node.js
+## Analista de Sistemas @Deloitte | React, TypeScript & Node.js
 
 <img src="https://github.com/micaellimedeiros/micaellimedeiros/blob/master/image/computer-illustration.png?raw=true" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 Desenvolvedor apaixonado por criar experiências digitais incríveis, com foco em **React** e **TypeScript**, e em expansão para Full Stack com Node.js e PostgreSQL. Sempre em busca de aprender novas tecnologias e aplicar as melhores práticas de desenvolvimento.
 
-🎓 **Formado em Análise e Desenvolvimento de Sistemas**
+🎓 **Formado em Análise e Desenvolvimento de Sistemas**  
 💼 **Analista de Sistemas na Deloitte**  
 📍 **Abreu e Lima, PE - Brasil**
 
@@ -16,7 +16,7 @@ Desenvolvedor apaixonado por criar experiências digitais incríveis, com foco e
 
 - 💼 Atuando como Analista de Sistemas na Deloitte
 - 🔭 Desenvolvendo aplicações React com TypeScript, Node.js e Express
-- 🌱 Atualmente estudando **Java** ☕
+- 🌱 Iniciando o aprendizado de **Java** ☕
 - 📚 Melhorando minhas habilidades de **organização de código** e **boas práticas**
 - 🎸 Nas horas vagas toco violão
 - 🎮 E jogo uns joguinhos pra relaxar
