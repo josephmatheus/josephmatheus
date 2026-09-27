@@ -87,6 +87,9 @@ Aplicação para gerenciamento de anotações com CRUD completo (criar, visualiz
 
 *"Se estiver se sentindo desmotivado ou sentindo que não é bom o suficiente incendeie o seu coração ❤️‍🔥*
 
+![Jogo da Cobrinha](https://githubusercontent.com)
+
+
 <!-- PARA USO POSTERIOR
 
   <a href="https://github.com/Gurupreet" title="ilustração do mapeamento de linguagens">
