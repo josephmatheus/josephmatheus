@@ -1,4 +1,4 @@
-name: Generate Datas
+name: Generate Cobrinha Animation
 
 on:
   schedule: # executa a cada 12 hours
