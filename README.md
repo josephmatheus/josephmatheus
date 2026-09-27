@@ -87,15 +87,16 @@ Aplicação para gerenciamento de anotações com CRUD completo (criar, visualiz
 
 *"Se estiver se sentindo desmotivado ou sentindo que não é bom o suficiente incendeie o seu coração ❤️‍🔥*
 
+<!-- PARA USO POSTERIOR
+
+## Jogo da Cobrinha
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josephmatheus/josephmatheus/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josephmatheus/josephmatheus/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/josephmatheus/josephmatheus/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-<!-- PARA USO POSTERIOR
-
+## Github Stats
   <a href="https://github.com/Gurupreet" title="ilustração do mapeamento de linguagens">
     <img align="center" src="https://github-readme-stats-josephmatheus.vercel.app/api/top-langs/?username=josephmatheus&layout=donut&theme=nightowl" alt="ilustração da leitura de linguagens de programação no perfil"/>
   </a>
@@ -112,6 +113,6 @@ Aplicação para gerenciamento de anotações com CRUD completo (criar, visualiz
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josephmatheus&theme=nightowl"/>
   </a> 
 
-  Spotify:
+## Spotify
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=227qho7unwg7m63rn7cdiezwq&width=300)
 -->
