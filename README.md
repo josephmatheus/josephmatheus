@@ -87,7 +87,11 @@ Aplicação para gerenciamento de anotações com CRUD completo (criar, visualiz
 
 *"Se estiver se sentindo desmotivado ou sentindo que não é bom o suficiente incendeie o seu coração ❤️‍🔥*
 
-![Jogo da Cobrinha](https://githubusercontent.com)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josephmatheus/josephmatheus/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josephmatheus/josephmatheus/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/josephmatheus/josephmatheus/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 <!-- PARA USO POSTERIOR
